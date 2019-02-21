@@ -1,0 +1,20 @@
+/*Allie LaCompte
+  Pig Latin Translator*/
+
+form{
+   margin-bottom: 3em;
+}
+
+body {
+   background-image: url("pigs.jpg");
+}
+
+h1, h2, p {
+   text-align: center;
+   color: lightblue;
+   text-shadow: 2px 2px 3px black;
+}
+
+input {
+   background-color: white;
+}
